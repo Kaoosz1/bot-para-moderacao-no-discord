@@ -208,4 +208,4 @@ async def verificar_calls_inativas():
             calls_privadas.pop(cid, None)
 
 # ----------------------- Inicia bot -----------------------
-bot.run("MTM4NTE5NTQ4MTQ0NTE3MTI0MA.Gu9LvN.6r_RS0rZmn2fZ6bwwIUcMn7xTaLcbl_qPA35_E")
+bot.run(BOT_TOKEN)
